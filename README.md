@@ -1,37 +1,37 @@
-# Hi, I'm Abhinav Musrif
+# Abhinav Musrif
 
-Building **AI-first products, autonomous systems, and intelligent environments.**
+AI Systems Engineer • Building AI-First Products • Autonomous Systems
 
-I develop systems where AI can interact with real software environments, automate workflows, and assist humans at scale.
-
----
-
-## What I Work On
-
-- AI Agents and Autonomous Systems
-- Software Environments for AI Evaluation
-- Intelligent Automation Systems
-- Product-focused AI applications
+I focus on designing intelligent systems that can interact with real software environments, automate complex workflows, and assist humans at scale.
 
 ---
 
-## Key Projects
+## Current Focus
+
+- AI Agents & Autonomous Systems  
+- Software Environments for AI Evaluation  
+- Automation Platforms  
+- Product-Driven AI Systems  
+
+---
+
+## Core Projects
 
 ### Kinetic-OS
-An autonomous agent framework designed to control Windows environments using native UI tree perception and long-term operational memory.
+Autonomous agent framework capable of controlling Windows environments using native UI tree perception and operational memory.
 
 ### HTS
-An open standard for training, benchmarking, and composing humanoid skills in simulation.
+Open standard for training, benchmarking, and composing humanoid skills inside simulation environments.
 
 ### Software Lifecycle Environment
-A reinforcement learning environment for evaluating AI agents across real software engineering tasks such as debugging, maintenance, and diagnostics.
+Reinforcement learning environment designed to evaluate AI agents on real software engineering tasks such as debugging and maintenance.
 
 ### Chitraagni
-An AI product platform focused on intelligent automation and productivity tools.
+AI-driven automation platform focused on productivity and intelligent workflows.
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 **Languages**
 
@@ -51,7 +51,7 @@ Python APIs • AI pipelines
 
 **Data**
 
-PostgreSQL • Vector Databases • Retrieval-Augmented Generation
+PostgreSQL • Vector Databases • RAG
 
 **Cloud**
 
@@ -63,17 +63,25 @@ Firebase
 
 ---
 
-## Current Focus
+## GitHub Stats
 
-Building scalable **AI product systems** that can:
-
-- automate complex tasks
-- interact with digital environments
-- improve human productivity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Build4mBottom&show_icons=true&theme=tokyonight)
 
 ---
 
-## Links
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Build4mBottom&layout=compact&theme=tokyonight)
+
+---
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Build4mBottom&theme=tokyo-night)
+
+---
+
+## Portfolio & Links
 
 Portfolio  
 https://abhinavmusrif.me
@@ -91,4 +99,4 @@ https://linkedin.com/in/abhinav-musrif
 
 ## Vision
 
-To build intelligent systems that make technology more capable, autonomous, and helpful in everyday human work.
+Building intelligent systems that make technology more autonomous, capable, and helpful in everyday human work.
